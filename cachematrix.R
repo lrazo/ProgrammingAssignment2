@@ -7,7 +7,7 @@
 ##
 ## The second function, 'cacheSolve' calculates the inverse of the special "Matrix"
 ## created with the above function. However, it first checks to see if the
-## inverse has already been calculated. If so, it `get`s the mean from the
+## inverse has already been calculated. If so, it `get`s the matrix inverse from the
 ## cache and skips the computation. Otherwise, it calculates the matrix inverse 
 ## and sets the value of the matrix inverse in the cache via the `setsolve`
 ## function.
